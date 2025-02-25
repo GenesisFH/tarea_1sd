@@ -1,5 +1,5 @@
 import 'package:tarea_1/config/app_theme.dart';
-import 'package:tarea_1/presentation/screens/counter/counter_screen.dart';
+import 'package:tarea_1/presentation/screens/counter_screen.dart';
 import 'package:flutter/material.dart';
 
 void main() {

@@ -1,5 +1,5 @@
-import 'package:tarea_1/presentation/screens/counter/counter_body.dart';
-import 'package:tarea_1/presentation/screens/counter/counter_fabs.dart';
+import 'package:tarea_1/presentation/screens/counter_body.dart';
+import 'package:tarea_1/presentation/screens/counter_fabs.dart';
 import 'package:flutter/material.dart';
 
 class CounterScreen extends StatefulWidget {
